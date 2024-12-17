@@ -1,6 +1,15 @@
-## Getting Started
+## 📱 Desafio de Modelagem e Implementação UML - iPhone
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+O objetivo principal foi modelar um diagrama UML que representasse as principais funcionalidades do iPhone e, opcionalmente, implementar as classes e interfaces em Java.
+
+
+## Diagrama UML
+
+Aqui está o diagrama UML que representa as funcionalidades do iPhone:
+
+![image](https://github.com/user-attachments/assets/88695f2f-0ef9-411e-9818-75d8b994b15e)
+
+
 
 ## Folder Structure
 
